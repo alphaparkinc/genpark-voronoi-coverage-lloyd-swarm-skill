@@ -1,0 +1,13 @@
+{
+  "name": "genpark-voronoi-coverage-lloyd-swarm-skill",
+  "version": "1.0.0",
+  "description": "Distributed Lloyd's algorithm for optimal robotic sensor swarm area coverage and Voronoi partition centroid convergence.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "swarm-coverage",
+    "lloyd-algorithm",
+    "voronoi-partition",
+    "robotic-deployment"
+  ]
+}
